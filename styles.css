@@ -1,1 +1,34 @@
-/* CSS code  */
+body{
+margin: 0px;
+padding: 0px;
+
+}
+
+
+nav {
+    background-color: #10243B;
+    color: white;
+
+}
+
+
+ul{
+    list-style-type: none;
+    padding: 5px 0px;
+    display: inline;
+}
+
+ul li{
+    font-size: 12px;
+    display: inline;
+    padding: 5px 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+.navlogo{
+    height: 30px;
+}
+
+#bluenav{
+    background-color: #005983;
+}
