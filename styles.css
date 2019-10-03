@@ -19,13 +19,14 @@ body{
     }
     
     ul li{
-        font-size: 12px;
+        font-size: 16px;
         display: inline;
         padding: 5px 10px;
-        font-family: 'Open Sans', sans-serif;
-        font-weight: bold;
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-weight: 700;
     }
     .navlogo{
+        
         height: 30px;
     }
     
@@ -167,7 +168,8 @@ body{
         
     }
     #cchsg{
-        margin-left: 50px;margin-left:50px;
+        margin-left: 50px;  
+        font-weight: bolder;
     }
     .hat{
         text-align: left;
@@ -196,7 +198,7 @@ body{
         font-family: 'Open Sans', sans-serif;
         font-weight: bold;
         margin-bottom: 50px;
-        margin-top: 65px;
+        margin-top: 50px;
     }
     .logos{
         display: inline-block;
@@ -223,16 +225,50 @@ body{
         background-color: #333333;
         width: 100%;
         height: 500px;
+        
     
     }
     .footernav{
         background-color: #10243B;
         width: 100%;
         height: 50px;
+        display: block;
+        padding-left: 330px;
+        
     }
 
     .leftfoot{ 
         list-style-type: none;
-        display: inline-block;
+        color: #A3DDE8;
+        font-family: 'PT Sans Narrow', sans-serif;
+        padding: 16px;
+        text-align: left;
+        text-transform: uppercase;
+        
+        
+       
     }
+
+    .left{
+        font-weight: lighter;
+        font-size: 14px;
+        font-family: 'PT Sans Narrow', sans-serif;
+    }
+
+    .connectwithus{
+        padding-left: 100px;
+        font-weight: lighter;
+        font-size: 14px;
+        
+
+    }
+
+    #rightfoot{
+    float: right;
+        
+    }
+       
+
+   
     
+
