@@ -1,6 +1,7 @@
 body{
     margin: 0px;
     padding: 0px;
+<<<<<<< HEAD
     
     }
     
@@ -201,6 +202,214 @@ body{
         height: 80px;
     
     
+=======
+    
+    }
+    
+    
+    nav {
+        background-color: #10243B;
+        color: white;
+    
+    }
+    
+    
+    ul{
+        list-style-type: none;
+        padding: 5px 0px;
+        display: inline;
+    }
+    
+    ul li{
+        font-size: 16px;
+        display: inline;
+        padding: 5px 10px;
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-weight: 700;
+    }
+    .navlogo{
+        
+        height: 30px;
+    }
+    
+    #bluenav{
+        background-color: #005983;
+    }
+    
+    #hero{
+        background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0), transparent), url(images/graduation.jpg);
+        width: 100vw;
+        height: 85vh;
+        background-repeat: no-repeat;
+        background-size: cover
+        
+        
+    }
+    #ecchs{
+        height: 100px;
+        width: 100%;
+        
+    
+    }
+    .top{
+        width: 100vw;
+        height: 8vh;
+        background-color: #10243B;
+        padding-top: 20px;
+        text-align: center;
+    }
+    h2{
+        margin-top: 0px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold;
+        color: white;
+    
+    }
+    #explorebox{
+        display: inline-block;
+        width: 24.5%;
+        height: 400px;
+        background-color: red;
+        margin: 0px;
+    }
+    .plaza{
+        background-image: url(images/patriots\ plaza.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+    .college{
+        background-image: url(images/college.png);
+        background-size: cover;
+        background-position: center;
+    }
+    .ccnn{
+        background-image: url(images/ccnn.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+    .live{
+        background-image: url(images/ccnn\ live.png);
+        background-size: cover;
+        background-position: center;
+    }
+    #bottom{
+        border-top: solid #a3dde8 8px;
+        width: 100%;
+        text-align: center;
+        background-color: #10243B;
+        overflow: hidden;
+    }
+    a{
+        text-decoration: none;
+        scroll-behavior: smooth;
+    }
+    #cchsgh{
+        text-align: center;
+        padding-top: 425px;
+        color: #10243B;
+        font-family: 'PT Sans Narrow', sans-serif;
+        
+    
+    }
+    #glance{
+        display: inline-block;
+        width: 24.5%;
+        height: 100%;
+        float: left;
+        
+    
+    }
+    .carosel{
+        width: 287.69px;
+        height: 282px;
+        text-align: center;
+        
+    }
+    .text{
+        text-align: center;
+        color: #333333;
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 14px;
+        line-height: 20px;
+        width: 287.69px;
+        margin-left: 0 px;
+        padding: 0px;
+    }
+    .heading{
+        color: red;
+        font-size: 25px;
+        font-family: 'Open Sans', sans-serif;
+        text-emphasis: center;
+        margin-left: 0px;
+    }
+    #dotd{
+        float: right;
+        margin-top: 5%;
+        padding-right: 48%;
+    }
+    #courses{
+        background-color: #10243B;
+        width: 75%;
+        height: 20vh;
+        margin-left: 250px;
+        text-align: center;
+        margin-top: 500px;
+        margin-bottom: 75px;
+        box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.8);
+        
+    }
+    .ap{
+        color: white;
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-weight: bold;
+        padding-top: 75px;
+        font-size: 30px;
+        letter-spacing: .05em;
+        
+        
+        
+    }
+    #cchsg{
+        margin-left: 50px;  
+        font-weight: bolder;
+    }
+    .hat{
+        text-align: left;
+    }
+    .money{
+        text-align: left;
+    }
+    .odot{
+        background-image: url(images/1dot.PNG);
+        background-position: center;
+        background-size: cover;
+        display: inline-block;
+        float: right;
+        margin-right: 8px;
+        margin-top: 10px;
+        width: 11px;
+        height: 11px;
+    
+    
+    }
+    .dotbox{
+        margin-right: 47.5%;
+    }
+    .scoolh{
+        color: #10243B;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold;
+        margin-bottom: 50px;
+        margin-top: 50px;
+    }
+    .logos{
+        display: inline-block;
+        margin: 20px;
+        width: 19.5%;
+        height: 80px;
+    
+    
+>>>>>>> 87f28d78bc445ac3de8fd8f1ca83e4a8630b55c7
     }
     #schools{
         text-align: center;
@@ -218,7 +427,11 @@ body{
     #footer{
         background-color: #333333;
         width: 100%;
+<<<<<<< HEAD
         height: 400px;
+=======
+        height: 500px;
+>>>>>>> 87f28d78bc445ac3de8fd8f1ca83e4a8630b55c7
         
     
     }
@@ -227,6 +440,7 @@ body{
         width: 100%;
         height: 50px;
         display: block;
+<<<<<<< HEAD
         padding-left: 30px;
         
         
@@ -239,10 +453,24 @@ body{
         text-align: left;
         text-transform: uppercase;
        
+
+        padding-left: 330px;
+        
+    }
+
+    .leftfoot{ 
+        list-style-type: none;
+        color: #A3DDE8;
+        font-family: 'PT Sans Narrow', sans-serif;
+        padding: 16px;
+        text-align: left;
+        text-transform: uppercase;
+>>>>>>> 87f28d78bc445ac3de8fd8f1ca83e4a8630b55c7
         
         
        
     }
+<<<<<<< HEAD
 
     .left{
         font-weight: lighter;
@@ -277,6 +505,31 @@ body{
         float: right;
         padding-right: 15px;
     }
+
+
+    .left{
+        font-weight: lighter;
+        font-size: 14px;
+        font-family: 'PT Sans Narrow', sans-serif;
+    }
+
+    .connectwithus{
+        padding-left: 100px;
+        font-weight: lighter;
+        font-size: 14px;
+        
+
+    }
+
+    #rightfoot{
+    float: right;
+        
+    }
+       
+
+   
+    
+>>>>>>> 87f28d78bc445ac3de8fd8f1ca83e4a8630b55c7
 
     .footright{
         float: left;
